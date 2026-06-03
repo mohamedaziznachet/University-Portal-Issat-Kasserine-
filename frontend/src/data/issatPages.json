@@ -1,0 +1,62 @@
+{
+  "scientificEvents": {
+    "title": "ISSATKAS -",
+    "desc": "Aucun article trouvé",
+    "sourcePath": "/fra/articles/categorie/p/1/3/manifestations-scientifiques"
+  },
+  "professionalEvents": {
+    "title": "ISSATKAS -",
+    "desc": "Aucun article trouvé",
+    "sourcePath": "/fra/articles/categorie/p/1/4/manifestations-professionnelles"
+  },
+  "eventsAgenda": {
+    "title": "Calendrier",
+    "desc": "Calendrier",
+    "sourcePath": "/fra/calendrier/"
+  },
+  "tenders": {
+    "title": "Liste des appels d'offres",
+    "desc": "ISSATKAS - Consultations / Appels d'offres",
+    "sourcePath": "/fra/appels-d-offre/"
+  },
+  "creationLaw": {
+    "title": "Présentation",
+    "desc": "C'est avec un grand plaisir que je vous souhaite la bienvenue à l ' Institut Supérieur des Sciences Appliquées et de technologie de Kasserine , et vous formule tous les v&oelig;ux pour que votre présence à l' ISSATKas soit celui du travail, de la persévérance, de l'effort et du succès.\n\t \n\tL' Institut Supérieur des Sciences Appliquées et de technologie de Kasserine (ISSATKas) créé par le décret n&deg; 1645 du 04 septembre 2012, est un établissement d'enseignement supérieur scientifique, public, placé sous la tutelle du Ministère de l'Enseignement Supérieur de la Recherche Scientifique.\n\t \n\tLa qualité des formations qu'il propose ainsi que leur adéquation aux attentes du marché, s'appuient sur l'expérience de ses enseignants en matière de formation, expérience concrétisée par l'ouverture de l'établissement sur son environnement socioéconomique et industriel. Dans le cadre de l'harmonisation du système d'enseignement supérieur en Tunisie qui vise à faciliter les orientations progressives et à favoriser la mobilité nationale et internationale des étudiants.\n\t \n\tL' ISSATKas   propose des offres de formation dans le domaine des Sciences et Technologies dans les disciplines suivantes : Informatique, Automatique, Mécatronique et Electronique.\n\t \n\tCes offres sont régies par :\n  Architecture des diplômes autour de la Licence, du Mastère et du Doctorat (LMD)\n  La mise en place du système de crédits\n  Un déroulement des études basé sur le semestre et le choix d'Unités d'Enseignements (UE).\n\tLa gouvernance de l' ISSATKas   est assurée par une direction aidée dans sa mission par un dynamique conseil scientifique et une administration quelque peu jeune mais dynamique et motivée. Il n'en demeure pas moins que bon nombre d'enseignants travaillant dans l'ombre ont contribué sans aucun ménagement à la bonne marche de l' ISSATKas et à la réussite de tous ses projets. \n\t \n\tNous voudrons saisir cette occasion pour vous informer que vos professeurs n'ont épargné aucun effort pour élaborer des filières de Licences Fondamentales et Professionnelles,  des filières de Masters répondant à vos attentes et aux besoins du marché de l'emploi.\n\t \n\tNous tenons aussi à vous assurer que le corps administratif sera mobilisé pour vous faciliter le travail et vous garantir, autant que possible, les conditions optimales de réussite. \n\t \n Directeur : Hajji Mansour \n\t \n Secrétaire général: Majed el hamzaoui\n\t \n Tél: 77418258\n Fax:77418256\n E-mail:issatkas@issatkas.rnu.tn\n Adresse: Campus Universitaire Route de feriena . kasserine 1200",
+    "sourcePath": "/fra/pages/157/Presentation"
+  },
+  "orgChart": {
+    "title": "Organigramme de l'institut",
+    "desc": "Organigramme de ISSAT Kasserine",
+    "sourcePath": "/fra/pages/159/Organigramme-de-l-institut"
+  },
+  "scientificCouncil": {
+    "title": "أعضاء المجلس العلمي بالمعهد العالي للعلوم التطبيقية و التكنولوجيا بالقصرين",
+    "desc": "أعضاء المجلس العلمي بالمعهد العالي للعلوم التطبيقية و التكنولوجيا بالقصرين خلال الفترة النيابية 2024-2027\n  \n Nom & Prénom\n Grade\n Qualité\n M. Hajji Mansour\n Maître assistant, Directeur\n Président\n M.  Ejday Mohsen\n Maître assistant, Directeur des Etudes et des Stages, Vice-Directeur\n Membre\n M. Sayed MISSAOUI\n Maître de conférence, Directeur de Département Technologie\n Membre\n M. Said CHAABANI\n Maître assistant, Directeur de Département Math-Info\n Membre\n M.Bouras Belgacem\n Professeur\n Membre\n M.Bettaibi Neji\n Professeur\n Membre\n M.Rahmouni Hedi\n Professeur\n Membre\n M.Mhamdi Bouzid\n Maître assistant\n Membre\n M.Touaiti Bilel\n Maitre assistant\n Membre\n M.Masmoudi Imene\n Maitre assiistant\n Membre\n M. Majed HAMZAOUI\n Ingénieur en chef, Secrétaire Général\n Rapporteur",
+    "sourcePath": "/fra/pages/162/Conseil-scientifique"
+  },
+  "photosGallery": {
+    "title": "ISSATKAS - Galerie de Photos",
+    "desc": "Politique-Qualité\n matériels et les équipements scientifiques dans certains laboratoires\n ISSAT Kasserine\n club\n Nouveau Local\n Institut",
+    "sourcePath": "/fra/galerie/"
+  },
+  "inNumbers": {
+    "title": "Organigramme de formation",
+    "desc": "",
+    "sourcePath": "/fra/pages/163/Organigramme-de-formation"
+  },
+  "seerMaster": {
+    "title": "Mastère Professionnelle en Système Eectrique et Energie Renouvelable(SEER)",
+    "desc": "Télécharger le plan d'études :Mastère Professionnelle en Système Eectrique et Energie Renouvelable(SEER)",
+    "sourcePath": "/fra/pages/303/Mastère-Professionnelle-en-Système-Eectrique-et-Energie-Renouvelable(SEER)"
+  },
+  "nanoMaster": {
+    "title": "Mastère de recherche en nanomatériaux et systèmes embarqués",
+    "desc": "Plan d'études Mastère de recherche en nanomatériaux et systèmes embarqués",
+    "sourcePath": "/fra/pages/313/Mastère-de-recherche-en-nanomatériaux-et-systèmes-embarqués"
+  },
+  "gmMaster": {
+    "title": "Mastère Pro en Génie mécanique – Parcours Matériaux d’Ingénierie & Techniques d’Industrialisation",
+    "desc": "Mastère Pro en Génie mécanique - Parcours Matériaux d'Ingénierie & Techniques d'Industrialisation\n Plan d'études",
+    "sourcePath": "/fra/pages/309/Mastère-Pro-en-Génie-mécanique-–-Parcours-Matériaux-d’Ingénierie-&-Techniques-d’Industrialisation"
+  }
+}

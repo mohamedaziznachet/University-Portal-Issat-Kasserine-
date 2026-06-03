@@ -1,0 +1,5 @@
+Document exemple — Portail universitaire
+========================================
+
+Ce fichier sert de démonstration pour le téléchargement des supports de cours.
+Remplacez-le par vos vrais PDF ou ZIP dans public/documents/.

@@ -1,0 +1,44 @@
+{
+  "name": "university-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "University portal (React)",
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "client": "react-scripts start",
+    "server": "npm run dev --prefix backend",
+    "dev:full": "concurrently \"npm run client\" \"npm run server\"",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.511.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.0",
+    "socket.io-client": "^4.8.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.4",
+    "autoprefixer": "^10.5.0",
+    "concurrently": "^9.1.2",
+    "postcss": "^8.5.13",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^4.2.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
