@@ -7,6 +7,13 @@ const { clientUrl, port } = require("./config/env");
 async function start() {
   try {
     await connectDb();
+    console.log("Database connected successfully.");
+  } catch (error) {
+    console.error("Database connection failed during startup:", error.message);
+    console.log("Starting server anyway (database features may be unavailable)...");
+  }
+
+  try {
     const httpServer = createServer(app);
     const io = initSocket(httpServer, clientUrl);
     app.locals.io = io;
@@ -20,5 +27,5 @@ async function start() {
   }
 }
 
-start(); // Trigger dev server restart after starting local MongoDB
+start();
 
